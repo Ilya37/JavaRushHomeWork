@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: D:\Study\Java\JavaRushHomeWork\JavaRushHomeWork\out\artifa
+ cts\
+Main-Class: com.javarush.test.level01.lesson08.task03.Solution
+
